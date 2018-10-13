@@ -17,6 +17,7 @@
 #### Data science  
 1. [Data Science Interview Questions & Detailed Answers](https://rpubs.com/JDAHAN/172473): a cheat sheet of sorts to review common knowledge for data science practitioners
 2. [ModeAnalytics](https://modeanalytics.com): a useful resource for learning and honing SQL skills, also has useful case studies
+   * see also [Visual JOIN](http://joins.spathon.com/) to wrap your head around table joining
 3. Andrew Ng's [Machine Learning](https://www.coursera.org/learn/machine-learning) course on Coursera: basic principles of common / classic machine learning (and incidentally, data analysis) methods, as well as motivation and practical use tips
 4. Honing programming skills with [LeetCode](https://leetcode.com/problemset/algorithms/): the problems you solve are completely irrelevant to data science, but this is a good resource to help you program more efficiently and make robust algorithms.
 5. I probably need to add something related to data engineering / data cleaning here, although I feel like these are sometimes secondary to actually solving the data problem / answering the data question. 

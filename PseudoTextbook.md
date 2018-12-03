@@ -13,6 +13,9 @@
     * Course 2, "Improving Deep Neural Networks, Hyperparameter tuning, Regularization and Optimization", is the next useful (again, with respect to practical use of neural networks)
     * The remaining courses give solid foundations for understanding the most popular network architectures
     * Generally, the quizzes are useful to save for future reference when you need to quickly review concepts of neural networks or general practical considerations for solving data problems
+    
+3. Advanced topics
+   * Generative adversarial networks vs. reinforcement learning: [what's the difference](https://www.quora.com/What-is-the-relationship-between-reinforcement-learning-and-adversarial-learning-e-g-GAN)? At face value, they're quite similar in that you have two agents--one trying to learn the world, and one trying to assess how well you've learned the world.
   
 #### Data science  
 1. [Data Science Interview Questions & Detailed Answers](https://rpubs.com/JDAHAN/172473): a cheat sheet of sorts to review common knowledge for data science practitioners

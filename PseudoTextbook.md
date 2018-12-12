@@ -45,3 +45,4 @@ i.e. things to help you think about and solve data problems
 1. Course 3 from [deeplearning.ai](https://www.deeplearning.ai/)
 2. Some of the questions on the [data science cheat sheet](https://rpubs.com/JDAHAN/172473)
 3. [ModeAnalytics' SQL analytics training](https://community.modeanalytics.com/sql/tutorial/sql-business-analytics-training/)
+4. Andrew Ng's upcoming book, [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/) (there seems to be some overlap in content between this book and his Coursera courses, so some information may be redundant)

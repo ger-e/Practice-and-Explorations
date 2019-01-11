@@ -23,7 +23,7 @@
    * see also [Visual JOIN](http://joins.spathon.com/) to wrap your head around table joining
 3. Andrew Ng's [Machine Learning](https://www.coursera.org/learn/machine-learning) course on Coursera: basic principles of common / classic machine learning (and incidentally, data analysis) methods, as well as motivation and practical use tips
 4. Honing programming skills with [LeetCode](https://leetcode.com/problemset/algorithms/): the problems you solve are completely irrelevant to data science, but this is a good resource to help you program more efficiently and make robust algorithms.
-5. [The Art of Best-performing Algorithms](https://www.synapse.org/#!Synapse:syn6180942/wiki/401735): some concise tips from Yuanfang Guan (UMich) on how to make high-performing models (in her case, models that have won many a [DREAM Challenge](http://dreamchallenges.org/). 
+5. [The Art of Best-performing Algorithms](https://www.synapse.org/#!Synapse:syn6180942/wiki/401735): some concise tips from Yuanfang Guan (UMich) on how to make high-performing models (in her case, models that have won many a [DREAM Challenge](http://dreamchallenges.org/)).  See also her similar [short article in Nature Machine Intelligence](https://www.nature.com/articles/s42256-018-0011-2).
 5. I probably need to add something related to data engineering / data cleaning here, although I feel like these are sometimes secondary to actually solving the data problem / answering the data question. 
 
 #### Useful math / stats / probability concepts

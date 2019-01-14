@@ -40,9 +40,14 @@
    * And here's [a more detailed primer](http://www.win-vector.com/blog/2011/09/the-equivalence-of-logistic-regression-and-maximum-entropy-models/) about how maximum entropy models (that is, those that build a model given the data, and assume all else to be equal probability (i.e. have maximum uncertainty / information / entropy) end up taking the same form of (i.e. are exactly) multi-class logistic regression models.
 2. Solving constrained optimization problems can be done by reformulating them as unconstrained optimization problems with penalties (i.e. regularized regression problems!) -- e.g. [this StackExchange question](https://stats.stackexchange.com/questions/134763/what-is-the-connection-between-regularization-and-the-method-of-lagrange-multipl)
    * See also these [lecture notes](https://www.stat.cmu.edu/~cshalizi/statcomp/14/lectures/18/lecture-18.pdf)
+   
 #### Case studies
 i.e. things to help you think about and solve data problems
 1. Course 3 from [deeplearning.ai](https://www.deeplearning.ai/)
 2. Some of the questions on the [data science cheat sheet](https://rpubs.com/JDAHAN/172473)
 3. [ModeAnalytics' SQL analytics training](https://community.modeanalytics.com/sql/tutorial/sql-business-analytics-training/)
 4. Andrew Ng's upcoming book, [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/) (there seems to be some overlap in content between this book and his Coursera courses, so some information may be redundant)
+
+#### Keeping up with the literature
+1. [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/): keep up with the latest pre-prints in a more structured manner
+2. [A github repository](https://github.com/sebastianruder/NLP-progress) for the latest in natural language processing (NLP)
